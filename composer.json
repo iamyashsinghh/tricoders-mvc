@@ -1,4 +1,5 @@
 {
+    "name": "iamyashsinghh/tricoders-mvc",
     "require": {
         "illuminate/database": "^10.29",
         "illuminate/events": "^10.29",
